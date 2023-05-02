@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "picture": "https://ibtbd.net/wp-content/uploads/2019/11/Chef-Moniruzzaman.jpg",
+    "name": "Limon Ahmed",
+    "experience": "10 years",
+    "number_of_recipe": 4,
+    "cuisine_item_id" : 1,
+    "likes": 5000
+  },
+  {
+    "id": 2,
+    "picture": "https://miro.medium.com/v2/resize:fit:720/0*8d0vB1EsR6RUtRny",
+    "name": "Juel Monjur",
+    "experience": "8 years",
+    "number_of_recipe": 4,
+    "cuisine_item_id" : 2,
+    "likes": 8000
+  },
+  {
+    "id": 3,
+    "picture": "https://media.licdn.com/dms/image/D5603AQEP1NGaBLMAew/profile-displayphoto-shrink_800_800/0/1665861249872?e=2147483647&v=beta&t=IN8jIpTW1BnhSCWhc4m9zKll5TKZe3GEz9r8xQLdZz0",
+    "name": "Monir Uddin",
+    "experience": "13 years",
+    "number_of_recipe": 4,
+    "cuisine_item_id" : 3,
+    "likes": 8000
+  },
+  {
+    "id": 4,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHBKcqVvJKq-mP-RTFuofiIeBNjlNDdhekKQ&usqp=CAU",
+    "name": "Jalal Uddin",
+    "experience": "12 years",
+    "number_of_recipe": 4,
+    "cuisine_item_id" : 4,
+    "likes": 5000
+  },
+  {
+    "id": 5,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFfCLbD-WA0Mq0JJ34NuEIaUsQyXTQX0hvD10W17PK8U7hsleazLY3cuRHvbQqyVfX2RQ&usqp=CAU",
+    "name": "Tarek Rahman",
+    "experience": "7 years",
+    "number_of_recipe": 4,
+    "cuisine_item_id" : 5,
+    "likes": 8000
+  },
+  {
+    "id": 6,
+    "picture": "https://ifcaindia.org/wp-content/uploads/2020/02/Chef-Sabyasachi-Gorai-President-YCAI-min.jpg",
+    "name": "Jihad Khan",
+    "experience": "15 years",
+    "number_of_recipe": 4,
+    "cuisine_item_id" : 6,
+    "likes": 12000
+  }
+]
