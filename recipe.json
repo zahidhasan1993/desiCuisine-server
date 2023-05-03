@@ -1,0 +1,175 @@
+[
+  {
+    "id": 1,
+    "recipeName": "Kacchi Biriyani",
+    "ingredients": [
+      "crispy fried onions",
+      "mutton or lamb",
+      "caraway seeds",
+      "onion",
+      "garlic",
+      "oil",
+      "polau rice"
+    ],
+    "cookingMethod": "Soak basmati rice in two to three cups of water for half an hour. Drain and keep aside.Slice two onions and chop the remaining two.Marinate mutton with yogurt, half the ginger-garlic paste, half the turmeric powder, half the red chilli powder, half the coriander powder and salt for at least one and a half hours preferably in the refrigerator.Heat ghee in a handi and fry sliced onions till brown. Drain onto an absorbent paper and keep aside.To the same ghee add green cardamoms, black cardamoms, cloves, cinnamon, bay leaves, star anise, cumin seeds and let them crackle.Add remaining ginger-garlic paste, green chillies, tomatoes and all the remaining masala powders including soonth and cumin powder.Add drained rice, half of the chopped coriander leaves and two cups of water. Mix well, cover and simmer on low heat.",
+    "rating": 4.5,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Kacchi_Biryani.jpg/2560px-Kacchi_Biryani.jpg"
+  },
+  {
+    "id": 1,
+    "recipeName": "Chicken Tikka Masala",
+    "ingredients": [
+      "chicken breast",
+      "tomato sauce",
+      "yogurt",
+      "spices",
+      "cream"
+    ],
+    "cookingMethod": " Marinate chicken in yogurt and spices for at least 1 hour.  Grill or bake chicken until cooked through.  Heat tomato sauce in a separate pan. Add cream and cooked chicken to the pan and stir to combine. Serve over rice.",
+    "rating": 4.8,
+    "img": "https://www.seriouseats.com/thmb/DbQHUK2yNCALBnZE-H1M2AKLkok=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/chicken-tikka-masala-for-the-grill-recipe-hero-2_1-cb493f49e30140efbffec162d5f2d1d7.JPG"
+  },
+  {
+    "id": 1,
+    "recipeName": "Beef Rezala",
+    "ingredients": [
+      "beef",
+      "Ginger-garlic paste",
+      "onion",
+      "Almond paste",
+      "Cooking oil "
+    ],
+    "cookingMethod": "Put a pan in the oven for cooking and add half a cup of oil and 1 teaspoon of ghee. Ghee must be given. Heat the oil and grate the onion. Fry the onion and soften it a little. Now add a small amount of water. Then add other spices except the potato-bokhara paste and meat masala. Add milk after stirring for a while. Then drain well for 5 minutes.After 5 minutes, put the meats in the pan. Cut the meat a little bigger. Rezala meat need to cut into a little bigger size. Stir the meat well and cover for 10 minutes.After 10 minutes, water will come out from the flesh and the color will also change. Now add potato-bokhara paste and radhuni meat masala. The spices will set well with the meat if given step by step. Cover and cook until the oil comes out of the meat. Occasionally open the lid and stir.",
+    "rating": 4.2,
+    "img": "https://i2.wp.com/petukcouple.com/wp-content/uploads/2022/01/Beef-Rezala-Recipe.jpeg?resize=960%2C540&ssl=1"
+  },
+  {
+    "id": 1,
+    "recipeName": "Chicken Biriyani",
+    "ingredients": [
+      "Basmati rice",
+      "Chicken",
+      "onion",
+      "Yogurt",
+      "Cooking oil "
+    ],
+    "cookingMethod": "Rinse the basmati rice in cold water until the water runs clear. Soak the rice in cold water for 30 minutes, then drain and set aside.In a large bowl, mix the chicken with the yogurt, 1/2 tsp of red chili powder, 1 tsp of garam masala, and salt to taste. Marinate for at least 30 minutes.In a large pot or Dutch oven, heat the oil or ghee over medium heat. Add the sliced onions and cook until golden brown, stirring frequently. Remove the onions from the pot and set aside.Add the cinnamon sticks, bay leaves, cardamom pods, and cloves to the same pot and cook until fragrant, about 30 seconds. Add the cumin seeds and cook for another 30 seconds.",
+    "rating": 4.2,
+    "img": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+  },
+  {
+    "id": 2,
+    "recipeName": "Chicken Roast",
+    "ingredients": [
+      "crispy fried onions",
+      "Chicken",
+      "caraway seeds",
+      "onion",
+      "garlic",
+      "oil"
+    ],
+    "cookingMethod": "A good amount of black pepper for a little heat as there is no use of chili powder. Natural yogurt to give the chicken a sour taste and help tenderize the meat.Nutmeg and mace for extra flavoring. Mom always uses these spices in her rich dishes. Some whole spices like bay leaf, green cardamom, cloves, cinnamon stick.Tomato ketchup… mom doesn’t use this ingredient but I like that sweet and tangy taste. Also adds to the color too.Then make a paste using white poppy seeds or cashews mixed in milk. This helps to thicken the gravy and adds to the flavor.Garam masala, probably the most important, mom has her own recipe for garam masala, you could of course use the store bought. Garam masala is the main flavor maker for Chicken roast.",
+    "rating": 4.5,
+    "img": "https://i0.wp.com/cookingcanary.com/wp-content/uploads/2021/05/Bangladeshi-biye-barir-roast.jpg"
+  },
+  {
+    "id": 2,
+    "recipeName": "Sorisa Elish",
+    "ingredients": [
+      "Hilsa fish",
+      "yellow mustard seeds",
+      " black mustard seeds",
+      "spices",
+      "mustard oil"
+    ],
+    "cookingMethod": " Soak the yellow and black mustard seeds in 1/2 cup of water for at least 30 minutes. Grind the soaked mustard seeds into a smooth paste.Wash and clean the Hilsa fish steaks, then rub them with turmeric powder and salt.Heat the mustard oil in a pan over medium heat. Add the chopped onions and sliced green chilies, and fry until the onions are translucent.Add the mustard paste to the pan and stir well. Add the red chili powder and salt to taste, and stir again.",
+    "rating": 4.8,
+    "img": "https://i0.wp.com/pikturenama.com/wp-content/uploads/2020/10/Low-res-Sosrshe-Ilish-8.jpg?fit=1200%2C800&ssl=1"
+  },
+  {
+    "id": 2,
+    "recipeName": "Ilish Vorta",
+    "ingredients": [
+      "Hilsa fish fillets",
+      "Ginger-garlic paste",
+      "onion",
+      "mustard oil",
+      "Fresh coriander leaves for garnish "
+    ],
+    "cookingMethod": "Boil the Hilsa fish fillets in a pot of salted water until they are cooked through, about 10-12 minutes. Drain and let the fish cool.Once the fish is cool, remove the skin and bones and discard them. Mash the fish meat with a fork or with your hands until it becomes a smooth paste.Heat the mustard oil in a pan over medium heat. Add the chopped onions, minced garlic, and minced ginger to the pan and cook until the onions are translucent.Add the chopped green chilies, cumin powder, coriander powder, turmeric powder, and red chili powder to the pan. Stir well and cook for 2-3 minutes, until the spices become fragrant.Add the mashed Hilsa fish to the pan and stir to combine with the spice mixture. Cook for another 5-7 minutes, stirring frequently, until the fish is heated through and the mixture is well combined.Remove the pan from heat and let the mixture cool slightly. Once it is cool enough to handle, use your hands to shape the mixture into small balls or patties.",
+    "rating": 4.2,
+    "img": "https://i2.wp.com/petukcouple.com/wp-content/uploads/2022/01/Beef-Rezala-Recipe.jpeg?resize=960%2C540&ssl=1"
+  },
+  {
+    "id": 2,
+    "recipeName": "Chicken Biriyani",
+    "ingredients": [
+      "Basmati rice",
+      "Chicken",
+      "onion",
+      "Yogurt",
+      "Cooking oil "
+    ],
+    "cookingMethod": "Rinse the basmati rice in cold water until the water runs clear. Soak the rice in cold water for 30 minutes, then drain and set aside.In a large bowl, mix the chicken with the yogurt, 1/2 tsp of red chili powder, 1 tsp of garam masala, and salt to taste. Marinate for at least 30 minutes.In a large pot or Dutch oven, heat the oil or ghee over medium heat. Add the sliced onions and cook until golden brown, stirring frequently. Remove the onions from the pot and set aside.Add the cinnamon sticks, bay leaves, cardamom pods, and cloves to the same pot and cook until fragrant, about 30 seconds. Add the cumin seeds and cook for another 30 seconds.",
+    "rating": 4.2,
+    "img": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+  },
+  {
+    "id": 3,
+    "recipeName": "Ilish Vorta",
+    "ingredients": [
+      "Hilsa fish fillets",
+      "Ginger-garlic paste",
+      "onion",
+      "mustard oil",
+      "Fresh coriander leaves for garnish "
+    ],
+    "cookingMethod": "Boil the Hilsa fish fillets in a pot of salted water until they are cooked through, about 10-12 minutes. Drain and let the fish cool.Once the fish is cool, remove the skin and bones and discard them. Mash the fish meat with a fork or with your hands until it becomes a smooth paste.Heat the mustard oil in a pan over medium heat. Add the chopped onions, minced garlic, and minced ginger to the pan and cook until the onions are translucent.Add the chopped green chilies, cumin powder, coriander powder, turmeric powder, and red chili powder to the pan. Stir well and cook for 2-3 minutes, until the spices become fragrant.Add the mashed Hilsa fish to the pan and stir to combine with the spice mixture. Cook for another 5-7 minutes, stirring frequently, until the fish is heated through and the mixture is well combined.Remove the pan from heat and let the mixture cool slightly. Once it is cool enough to handle, use your hands to shape the mixture into small balls or patties.",
+    "rating": 4.2,
+    "img": "https://i2.wp.com/petukcouple.com/wp-content/uploads/2022/01/Beef-Rezala-Recipe.jpeg?resize=960%2C540&ssl=1"
+  },
+  {
+    "id": 3,
+    "recipeName": "Beef Rezala",
+    "ingredients": [
+      "beef",
+      "Ginger-garlic paste",
+      "onion",
+      "Almond paste",
+      "Cooking oil "
+    ],
+    "cookingMethod": "Put a pan in the oven for cooking and add half a cup of oil and 1 teaspoon of ghee. Ghee must be given. Heat the oil and grate the onion. Fry the onion and soften it a little. Now add a small amount of water. Then add other spices except the potato-bokhara paste and meat masala. Add milk after stirring for a while. Then drain well for 5 minutes.After 5 minutes, put the meats in the pan. Cut the meat a little bigger. Rezala meat need to cut into a little bigger size. Stir the meat well and cover for 10 minutes.After 10 minutes, water will come out from the flesh and the color will also change. Now add potato-bokhara paste and radhuni meat masala. The spices will set well with the meat if given step by step. Cover and cook until the oil comes out of the meat. Occasionally open the lid and stir.",
+    "rating": 4.2,
+    "img": "https://i2.wp.com/petukcouple.com/wp-content/uploads/2022/01/Beef-Rezala-Recipe.jpeg?resize=960%2C540&ssl=1"
+  },
+  {
+    "id": 3,
+    "recipeName": "Chicken Roast",
+    "ingredients": [
+      "crispy fried onions",
+      "Chicken",
+      "caraway seeds",
+      "onion",
+      "garlic",
+      "oil"
+    ],
+    "cookingMethod": "A good amount of black pepper for a little heat as there is no use of chili powder. Natural yogurt to give the chicken a sour taste and help tenderize the meat.Nutmeg and mace for extra flavoring. Mom always uses these spices in her rich dishes. Some whole spices like bay leaf, green cardamom, cloves, cinnamon stick.Tomato ketchup… mom doesn’t use this ingredient but I like that sweet and tangy taste. Also adds to the color too.Then make a paste using white poppy seeds or cashews mixed in milk. This helps to thicken the gravy and adds to the flavor.Garam masala, probably the most important, mom has her own recipe for garam masala, you could of course use the store bought. Garam masala is the main flavor maker for Chicken roast.",
+    "rating": 4.5,
+    "img": "https://i0.wp.com/cookingcanary.com/wp-content/uploads/2021/05/Bangladeshi-biye-barir-roast.jpg"
+  },
+  {
+    "id": 3,
+    "recipeName": "Chicken Tikka Masala",
+    "ingredients": [
+      "chicken breast",
+      "tomato sauce",
+      "yogurt",
+      "spices",
+      "cream"
+    ],
+    "cookingMethod": " Marinate chicken in yogurt and spices for at least 1 hour.  Grill or bake chicken until cooked through.  Heat tomato sauce in a separate pan. Add cream and cooked chicken to the pan and stir to combine. Serve over rice.",
+    "rating": 4.8,
+    "img": "https://www.seriouseats.com/thmb/DbQHUK2yNCALBnZE-H1M2AKLkok=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/chicken-tikka-masala-for-the-grill-recipe-hero-2_1-cb493f49e30140efbffec162d5f2d1d7.JPG"
+  }
+
+]
