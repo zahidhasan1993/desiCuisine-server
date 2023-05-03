@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+    "key" : 1,
     "recipeName": "Kacchi Biriyani",
     "ingredients": [
       "crispy fried onions",
@@ -17,6 +18,7 @@
   },
   {
     "id": 1,
+    "key" : 2,
     "recipeName": "Chicken Tikka Masala",
     "ingredients": [
       "chicken breast",
@@ -31,6 +33,7 @@
   },
   {
     "id": 1,
+    "key" : 3,
     "recipeName": "Beef Rezala",
     "ingredients": [
       "beef",
@@ -45,6 +48,7 @@
   },
   {
     "id": 1,
+    "key" : 4,
     "recipeName": "Chicken Biriyani",
     "ingredients": [
       "Basmati rice",
@@ -59,6 +63,7 @@
   },
   {
     "id": 2,
+    "key" : 5,
     "recipeName": "Chicken Roast",
     "ingredients": [
       "crispy fried onions",
@@ -74,6 +79,7 @@
   },
   {
     "id": 2,
+    "key" : 6,
     "recipeName": "Sorisa Elish",
     "ingredients": [
       "Hilsa fish",
@@ -88,6 +94,7 @@
   },
   {
     "id": 2,
+    "key" : 7,
     "recipeName": "Ilish Vorta",
     "ingredients": [
       "Hilsa fish fillets",
@@ -98,10 +105,11 @@
     ],
     "cookingMethod": "Boil the Hilsa fish fillets in a pot of salted water until they are cooked through, about 10-12 minutes. Drain and let the fish cool.Once the fish is cool, remove the skin and bones and discard them. Mash the fish meat with a fork or with your hands until it becomes a smooth paste.Heat the mustard oil in a pan over medium heat. Add the chopped onions, minced garlic, and minced ginger to the pan and cook until the onions are translucent.Add the chopped green chilies, cumin powder, coriander powder, turmeric powder, and red chili powder to the pan. Stir well and cook for 2-3 minutes, until the spices become fragrant.Add the mashed Hilsa fish to the pan and stir to combine with the spice mixture. Cook for another 5-7 minutes, stirring frequently, until the fish is heated through and the mixture is well combined.Remove the pan from heat and let the mixture cool slightly. Once it is cool enough to handle, use your hands to shape the mixture into small balls or patties.",
     "rating": 4.2,
-    "img": "https://i2.wp.com/petukcouple.com/wp-content/uploads/2022/01/Beef-Rezala-Recipe.jpeg?resize=960%2C540&ssl=1"
+    "img": "https://i.ytimg.com/vi/eyOMXrnD-E4/maxresdefault.jpg"
   },
   {
     "id": 2,
+    "key" : 8,
     "recipeName": "Chicken Biriyani",
     "ingredients": [
       "Basmati rice",
@@ -116,6 +124,7 @@
   },
   {
     "id": 3,
+    "key" : 9,
     "recipeName": "Ilish Vorta",
     "ingredients": [
       "Hilsa fish fillets",
@@ -126,10 +135,11 @@
     ],
     "cookingMethod": "Boil the Hilsa fish fillets in a pot of salted water until they are cooked through, about 10-12 minutes. Drain and let the fish cool.Once the fish is cool, remove the skin and bones and discard them. Mash the fish meat with a fork or with your hands until it becomes a smooth paste.Heat the mustard oil in a pan over medium heat. Add the chopped onions, minced garlic, and minced ginger to the pan and cook until the onions are translucent.Add the chopped green chilies, cumin powder, coriander powder, turmeric powder, and red chili powder to the pan. Stir well and cook for 2-3 minutes, until the spices become fragrant.Add the mashed Hilsa fish to the pan and stir to combine with the spice mixture. Cook for another 5-7 minutes, stirring frequently, until the fish is heated through and the mixture is well combined.Remove the pan from heat and let the mixture cool slightly. Once it is cool enough to handle, use your hands to shape the mixture into small balls or patties.",
     "rating": 4.2,
-    "img": "https://i2.wp.com/petukcouple.com/wp-content/uploads/2022/01/Beef-Rezala-Recipe.jpeg?resize=960%2C540&ssl=1"
+    "img": "https://i.ytimg.com/vi/eyOMXrnD-E4/maxresdefault.jpg"
   },
   {
     "id": 3,
+    "key" : 10,
     "recipeName": "Beef Rezala",
     "ingredients": [
       "beef",
@@ -144,6 +154,7 @@
   },
   {
     "id": 3,
+    "key" : 11,
     "recipeName": "Chicken Roast",
     "ingredients": [
       "crispy fried onions",
@@ -159,6 +170,7 @@
   },
   {
     "id": 3,
+    "key" : 12,
     "recipeName": "Chicken Tikka Masala",
     "ingredients": [
       "chicken breast",

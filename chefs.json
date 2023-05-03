@@ -6,7 +6,8 @@
     "experience": "10 years",
     "number_of_recipe": 4,
     "cuisine_item_id" : 1,
-    "likes": 5000
+    "likes": 5000,
+    "bio" : "Limon is a talented chef with a passion for creating unique and flavorful dishes. Born and raised in Bangladesh, Limon developed an interest in cooking at a young age and honed his skills by working in various restaurants throughout the country.Limon's culinary style is a fusion of traditional Thai flavors and modern techniques. He is known for his inventive use of spices and herbs to create bold and memorable dishes. Some of his signature dishes include tom yum soup with lemongrass and kaffir lime, green curry with crispy pork belly, and mango sticky rice with coconut cream."
   },
   {
     "id": 2,
@@ -15,7 +16,9 @@
     "experience": "8 years",
     "number_of_recipe": 4,
     "cuisine_item_id" : 2,
-    "likes": 8000
+    "likes": 8000,
+    "bio" : "Juel is an accomplished chef with a passion for creating innovative and delicious dishes. Born and raised in Bangladesh, Juel grew up surrounded by fresh, locally-sourced ingredients and developed an appreciation for quality food at a young age.Juel's culinary style is heavily influenced by his Scandinavian roots, but he also draws inspiration from global flavors and techniques. His signature dishes include cured salmon with dill and fennel, seared Arctic char with roasted root vegetables, and lingonberry tart with vanilla cream."
+    
   },
   {
     "id": 3,
@@ -24,7 +27,8 @@
     "experience": "13 years",
     "number_of_recipe": 4,
     "cuisine_item_id" : 3,
-    "likes": 8000
+    "likes": 8000,
+    "bio" : "Monir Uddin is a skilled chef with a passion for creating delicious and authentic Bangladeshi cuisine. Born and raised in Dhaka, Bangladesh, Monir developed an interest in cooking at a young age and honed his skills by working in various restaurants throughout the country.Monir's culinary style is heavily influenced by the vibrant flavors and spices of his homeland, and he is known for his expertise in traditional Bangladeshi dishes such as biryani, curries, and kebabs. His signature dishes include chicken tikka masala, beef kebab with mint chutney, and shahi paneer."
   },
   {
     "id": 4,
@@ -33,7 +37,8 @@
     "experience": "12 years",
     "number_of_recipe": 4,
     "cuisine_item_id" : 2,
-    "likes": 5000
+    "likes": 5000,
+    "bio" : "Jalal is a renowned chef with a passion for creating flavorful and unique dishes. Born and raised in Bangladesh, Jalal developed an interest in cooking at a young age and honed his skills by working in various restaurants throughout the country.Jalal's culinary style is heavily influenced by the rich and aromatic flavors of Moroccan cuisine, and he is known for his expertise in dishes such as tagine, couscous, and harira soup. His signature dishes include lamb tagine with preserved lemons and olives, couscous with roasted vegetables and harissa, and almond pastilla with cinnamon and honey."
   },
   {
     "id": 5,
@@ -42,7 +47,8 @@
     "experience": "7 years",
     "number_of_recipe": 4,
     "cuisine_item_id" : 3,
-    "likes": 8000
+    "likes": 8000,
+    "bio" : "Tarek is a skilled chef with a passion for creating delicious and innovative dishes. Born and raised in Bangladesh, Tarek developed an interest in cooking at a young age and honed his skills by working in various restaurants throughout the country.Tarek's culinary style is heavily influenced by the rich and diverse flavors of Lebanese cuisine, and he is known for his expertise in dishes such as shawarma, fattoush, and kibbeh. His signature dishes include lamb shawarma with tahini sauce, tabbouleh with pomegranate seeds, and baklava with rosewater syrup."
   },
   {
     "id": 6,
@@ -51,6 +57,7 @@
     "experience": "15 years",
     "number_of_recipe": 4,
     "cuisine_item_id" : 1,
-    "likes": 12000
+    "likes": 12000,
+     "bio" : "Jihad Khan is a talented chef with a passion for creating flavorful and unique dishes. Born and raised in Bangladesh, Jihad developed an interest in cooking at a young age and honed his skills by working in various restaurants throughout the country.Jihad's culinary style is heavily influenced by the vibrant and aromatic flavors of Pakistani cuisine, and he is known for his expertise in dishes such as biryani, kebabs, and curries. His signature dishes include chicken tikka biryani, beef seekh kebab with mint chutney, and chana masala."
   }
 ]
